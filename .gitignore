@@ -1,0 +1,8 @@
+# Personal journal & streak data — never share these
+blessings_journal.txt
+streak.json
+
+# macOS junk
+.DS_Store
+__pycache__/
+*.pyc
