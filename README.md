@@ -79,6 +79,16 @@ rm ~/.wakeup
 
 ---
 
-## Inspiration
+## The story behind this
 
-I built this because I wanted my morning meditation and gratitude practice to be non-negotiable — not optional. If the computer won't work until I do it, I do it.
+I built this in April 2026, during my PhD.
+
+PhD life is strange — nobody tells you what to do or when to show up. No schedule, no manager, no structure unless you create it yourself. That freedom sounds great until you realise how easy it is to drift. Days blur together. Motivation comes and goes. And the first thing that disappears when things get hard is the small habits that actually keep you grounded.
+
+I'd been trying to meditate every morning and write 10 things I was grateful for — not because anyone told me to, but because it genuinely made my days better. The problem was that "trying" wasn't enough. Some mornings I'd open my laptop, get sucked into emails or research, and the ritual just wouldn't happen.
+
+So I thought — what if the computer simply didn't work until I did it?
+
+No willpower needed. No reminders to ignore. Just: you open your laptop, the gate is there, and your day doesn't start until your ritual is done.
+
+It's a small thing. But during a PhD, when the loneliness and the pressure and the lack of structure can quietly wear you down, small things matter a lot. This is my way of making sure I start every single day with intention — no matter what.
